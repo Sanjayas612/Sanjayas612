@@ -1,5 +1,5 @@
 - 👋 Heloo world, I’m @sanjayas612 (Nagendra AS)
-- 👀 I’m interested in cyber security and related to it.... and I like to create application... 
+- 👀 I’m interested in cyber security ... and I like to create application... 
 - 🌱 I’m currently learning... actually nothing😶😶.... But i will>>
 - 📫 How to reach me  linkedIn: Nagendra AS
 <!---
