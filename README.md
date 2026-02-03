@@ -19,7 +19,7 @@
 - 👁️ **Face Recognition** 
 
 ### The Grind 🏃
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjayas612&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjayas612&theme=radical&v=1)
 
 ---
 **"A jack of all trades is a master of none, but oftentimes better than a master of one."**
