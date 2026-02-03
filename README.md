@@ -14,10 +14,9 @@
 - **Specialties:** Secure API Implementation, Face Recognition
 
 ### My Stats 📊
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjayas612&show_icons=true&theme=radical" alt="Nagendra's Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjayas612&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
+![Nagendra's Stats](https://github-readme-stats.vercel.app/api?username=Sanjayas612&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjayas612&layout=compact&theme=tokyonight)
 
 ### The Grind 🏃
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjayas612&theme=radical)
