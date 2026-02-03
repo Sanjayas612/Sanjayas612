@@ -8,10 +8,10 @@
 - **SLR Canteen**: A full-stack web application designed to streamline canteen operations for our college Mobile Canteen.
 
 🛠 Tech Stack
-- **Languages:** Java, Python, JavaScript, C++
-- **Frontend:** HTML5, CSS3, React
-- **Backend/DB:** Node.js, MongoDB, Firebase, SQL
-- **Specialties:** Secure API Implementation, Face Recognition, Data Structures
+- **Languages:** Java, Python, C++
+- **Frontend:** HTML5, CSS3
+- **Backend/DB:** Node.js, MongoDB
+- **Specialties:** Secure API Implementation, Face Recognition
 
 📫 Let's Connect
 - **LinkedIn:** linkedin.com/in/nagendra-as-b540a9305
