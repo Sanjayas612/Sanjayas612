@@ -86,6 +86,7 @@ https://linkedin.com/in/nagendraas612
 
 📧 Email  
 nagias612@gmail.com
+nagendraas.engineer@gmail.com
 
 ---
 
