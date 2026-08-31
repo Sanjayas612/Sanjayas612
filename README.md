@@ -6,7 +6,7 @@
 
 [🌐 Portfolio](https://nagendraas.vercel.app/) •
 [💼 LinkedIn](https://linkedin.com/in/nagendraas612) •
-[📧 G-mail](nagias612@gmail.com) •
+[📧 G-mail](nagendraas.engineer@gmailcom)•
 
 </div>
 
@@ -85,8 +85,8 @@ https://nagendraas.vercel.app/
 https://linkedin.com/in/nagendraas612
 
 📧 Email  
+nagendraas.engineer@gmail.com /
 nagias612@gmail.com
-nagendraas.engineer@gmail.com
 
 ---
 
